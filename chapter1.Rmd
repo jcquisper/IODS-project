@@ -5,15 +5,19 @@
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
-"Link repository: https://github.com/jcquisper/IODS-project
+date()
+
+```
+
+Link repository: https://github.com/jcquisper/IODS-project
 
 Mi name is Juan Carlos Quispe, I studied systems engineering and several studies on fashion
 I'm born and live at Lima in Perú.
 I'm enthusiastic about this course.I saw this course by browsing the Helsinki University website.
-I'm preparing to start a fashion business and I am strengthening my knowledge to manage it."
+I'm preparing to start a fashion business and I am strengthening my knowledge to manage it.
 
-date()
 
-```
+
+
 
 
